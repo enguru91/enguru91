@@ -8,7 +8,7 @@
 
 <!-- Location & Contact Badges -->
 [![Location](https://img.shields.io/badge/📍_Yokohama,_Japan-181717?style=for-the-badge)](https://www.google.com/maps/place/Yokohama)
-[![Ericsson](https://img.shields.io/badge/Ericsson-Integration_Engineer-009FDB?style=for-the-badge&logo=ericsson&logoColor=white)](https://www.ericsson.com)
+[![Contact](https://img.shields.io/badge/Email-009FDB?style=for-the-badge&logo=ericsson&logoColor=white)](mailto:engurusinghe91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
