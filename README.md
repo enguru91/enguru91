@@ -47,7 +47,7 @@ languages_spoken:
 
 ### ☁️ Cloud & Infrastructure
 - Ericsson ECCD, Kubernetes, Docker
-- AWS architecture (SAA-C03 certified)
+- AWS architecture (SAA-C03)
 - Hybrid cloud / on-premise system bridging
 - Linux/Unix & Windows Server administration
 
@@ -132,7 +132,7 @@ languages_spoken:
 <tr>
 <td width="50%">
 
-### 🤖 AI RCA Assistant Tool
+### 🤖 AI Assistant Tool
 **Ericsson, Japan · 2025**
 
 > AI-powered support automation that ingests live system error logs and documentation to automate Root Cause Analysis, generate troubleshooting guides and reduce MTTR.
@@ -145,7 +145,7 @@ languages_spoken:
 <td width="50%">
 
 ### 🌐 School Web Portal & OBA System
-**UCSC Final Year Project · 2018**
+**University Final Project · 2018**
 
 > Scalable web portal for OBA administration, improving data accessibility for 500+ users.
 
@@ -177,13 +177,13 @@ languages_spoken:
 
 ## 🌍 Languages
 
-<div align="center">
+<div align="Left">
 
 | Language | Level | Proof |
 |---|---|---|
-| 🇱🇰 Sinhala | Native | — |
-| 🇬🇧 English | Professional | TOEIC L&R: **830** |
-| 🇯🇵 Japanese | Professional | JLPT N3 · J-Test D · Business Proficiency |
+| Sinhala | Native | — |
+| English | Professional | TOEIC L&R: **830** |
+| Japanese | Professional | JLPT N3 · J-Test D · Business Proficiency |
 
 </div>
 
