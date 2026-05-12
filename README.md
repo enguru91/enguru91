@@ -8,8 +8,8 @@
 
 <!-- Location & Contact Badges -->
 [![Location](https://img.shields.io/badge/📍_Yokohama,_Japan-181717?style=for-the-badge)](https://www.google.com/maps/place/Yokohama)
-[![Contact](https://img.shields.io/badge/Email-009FDB?style=for-the-badge&logo=ericsson&logoColor=white)](mailto:engurusinghe91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Contact](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engurusinghe91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/engurusinghe91)
 
 </div>
 
@@ -208,9 +208,8 @@ languages_spoken:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Credly](https://img.shields.io/badge/Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com)
+[![Contact](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engurusinghe91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/engurusinghe91)
 
 </div>
 
