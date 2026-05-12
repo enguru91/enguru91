@@ -9,7 +9,7 @@
 <!-- Location & Contact Badges -->
 [![Location](https://img.shields.io/badge/📍_Yokohama,_Japan-181717?style=for-the-badge)](https://www.google.com/maps/place/Yokohama)
 [![Contact](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engurusinghe91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/engurusinghe91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engurusinghe91)
 
 </div>
 
@@ -209,7 +209,7 @@ languages_spoken:
 <div align="center">
 
 [![Contact](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engurusinghe91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/engurusinghe91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engurusinghe91)
 
 </div>
 
