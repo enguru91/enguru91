@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Eshan%20Gurusinghe&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Core%20Integration%20Engineer%20%7C%20AI%20APPS%20Builder&descAlignY=60&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Eshan%20Gurusinghe&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Network%20Integration%20Engineer%20%7C%20AI%20Apps%20Builder&descAlignY=60&descColor=8b949e" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=8%2B+Years+in+Telecom+%26+Enterprise+Systems;5GC+%2F+LTE+Core+Network+Integration;AI+%7C+LLM+%7C+RAG+%7C+LangChain+Developer;Bilingual+Engineer+%F0%9F%87%AF%F0%9F%87%B5+%F0%9F%87%AC%F0%9F%87%A7+%7C+Yokohama%2C+Japan)](https://git.io/typing-svg)
