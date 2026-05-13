@@ -183,7 +183,7 @@ languages_spoken:
 |---|---|---|
 | Sinhala | Native | — |
 | English | Professional | TOEIC L&R: **830** |
-| Japanese | Professional | JLPT N3 · J-Test Level D · Business Proficiency |
+| Japanese | Professional | JLPT N3 · Business Proficiency |
 
 </div>
 
